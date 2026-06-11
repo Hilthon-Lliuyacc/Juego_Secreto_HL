@@ -1,0 +1,193 @@
+[33mcommit 8bc8620da6a2d59572e956e2163d9e5ef61d06ef[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/mis-pruebas[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/ProyectoInicial[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 53a5cf0 9a7a10e
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Thu Oct 2 22:36:05 2025 -0300
+
+    Merge branch 'funcion_1' into ProyectoInicial
+
+[33mcommit 9a7a10e86bc5fc510d23523d0059d3fd7dd7bb2d[m
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Thu Oct 2 22:31:57 2025 -0300
+
+    Ajustando tamaños
+
+[33mcommit 5aba4b747c833e1d20c5cef147b4b5615eea00d9[m
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Thu Oct 2 22:34:01 2025 -0300
+
+    Actualizando ReadME
+
+[33mcommit 298262b8ab163ee7a4c8df4d5d01db833b388e05[m
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Thu Oct 2 22:32:57 2025 -0300
+
+    Ajustando estilos y título
+
+[33mcommit 53a5cf0af1974c3204d29e46bd25f33f87891a45[m
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Thu Oct 2 22:31:57 2025 -0300
+
+    Ajustando tamaños
+
+[33mcommit 65858ec16590342916ec0b3803a6bf6d50beead9[m
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Thu Oct 2 21:47:39 2025 -0300
+
+    Limpiando comentarios
+
+[33mcommit 4490da2c6cbbfc0e524d0c64318fda6fa223bddc[m
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Thu Oct 2 21:45:38 2025 -0300
+
+    Ajustando el título
+
+[33mcommit 23364d6cd8672dde75018d756426f1101c81c5b7[m
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Tue Sep 30 20:32:56 2025 -0300
+
+    Ajustando etiquetas
+
+[33mcommit d320c8cd9b86100357425b8ed42754090ec8df60[m
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Tue Sep 30 20:32:13 2025 -0300
+
+    Actualizar titulo
+
+[33mcommit 597ef111ed3dd798c0cdb475369801269f000e13[m
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Tue Sep 30 20:34:00 2025 -0300
+
+    Mejorando estilos
+
+[33mcommit a34fbce6a625b83cec5441df723f597da749797e[m
+Merge: 56960bd 3e76403
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Sat Sep 27 00:26:37 2025 -0300
+
+    Merge branch 'readme' into ProyectoInicial
+
+[33mcommit 56960bd19ccfe129db6b0239a6c00823f583fb6b[m
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Sat Sep 27 00:25:38 2025 -0300
+
+    Cambios en estilos
+
+[33mcommit 3e764035606b6b6aefc40497174bce47a0c115a7[m
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Sat Sep 27 00:25:00 2025 -0300
+
+    Ajuste Readme
+
+[33mcommit bd9a7e7d6c675c613b5afec02dfecfd5d79dd9b3[m
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Fri Sep 26 23:53:19 2025 -0300
+
+    Cambiar etiqueta nuevo juego
+
+[33mcommit d6dc77e5865848f2d881df2c157349fff3de6568[m
+Merge: ff569c9 e7c74d8
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Fri Sep 26 23:27:49 2025 -0300
+
+    Merge branch 'ProyectoInicial' of github.com:leocastillo-aluralatam/juego_secreto into ProyectoInicial
+
+[33mcommit ff569c927d443f960e3158c217d3e2444deebfbf[m
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Fri Sep 26 23:27:00 2025 -0300
+
+    Ajuste Boton Intentar
+
+[33mcommit e7c74d89490d1f3829b523daf6427903e2580bd1[m
+Author: Leonardo Castillo Lacruz <leocastillo.aluralatam@gmail.com>
+Date:   Fri Sep 26 23:25:34 2025 -0300
+
+    Cambiar título
+
+[33mcommit 7dc830b09a40c713216b27788acf301de0a55a26[m
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Thu Sep 18 23:12:50 2025 -0300
+
+    Cambiar Titulo
+
+[33mcommit e22c76a740b9128773c54e34ed5d2bb56f534613[m
+Merge: ad8efd5 d380d03
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Sun Aug 31 22:38:37 2025 -0300
+
+    Merge branch 'main' of github.com:leocastillo-aluralatam/juego_secreto
+
+[33mcommit ad8efd5840e84c13a3504b4ef79be7e8d5cb11d1[m
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Sun Aug 31 22:38:14 2025 -0300
+
+    Archivo de ignore
+
+[33mcommit d380d033069830e40ff17238bf5ff60e6cdb9ab1[m
+Author: Leonardo Castillo Lacruz <ljcl79@gmail.com>
+Date:   Sun Aug 31 22:33:07 2025 -0300
+
+    Agregar README.md
+
+[33mcommit 30ea5fc55cc643ca398f3401f6697961e209d607[m
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Sun Aug 31 22:20:55 2025 -0300
+
+    Ajuste del número máximo a 30
+
+[33mcommit 4c71883865ecabb0215d9083e9888cfce80127f6[m
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Sun Aug 31 21:55:52 2025 -0300
+
+    Revert "Quitar la imagen del formulario"
+    
+    This reverts commit 64b61287a04b5cf70dbf3e2048125972cd82694b.
+
+[33mcommit 64b61287a04b5cf70dbf3e2048125972cd82694b[m
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Sun Aug 31 21:53:57 2025 -0300
+
+    Quitar la imagen del formulario
+
+[33mcommit c990963ae563ccd86c3fcfb177129a1ffaf61642[m
+Merge: 5245bba 25f025c
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Sun Aug 31 21:42:22 2025 -0300
+
+    Merge branch 'main' of github.com:leocastillo-aluralatam/juego_secreto
+
+[33mcommit 25f025c63d03ba745e8b896271c0a16342efc799[m
+Merge: 476f375 6ed4440
+Author: Leonardo Castillo Lacruz <leocastillo.aluralatam@gmail.com>
+Date:   Mon Sep 1 00:29:42 2025 -0300
+
+    Cambio del número máximo
+
+[33mcommit 476f375d1572b01861111ea6787f3594ca39b5c2[m
+Author: Leonardo Castillo Lacruz <leocastillo.aluralatam@gmail.com>
+Date:   Mon Sep 1 00:28:27 2025 -0300
+
+    Cambio del número máximo
+
+[33mcommit 5245bba2ba920b47a16b06c8effa21fab04350ad[m
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Sun Aug 31 21:33:16 2025 -0300
+
+    Ajuste para 30 del número máximo
+
+[33mcommit 6ed4440447fd129cdead84f3887457c7ad977a9e[m
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Sun Aug 31 21:24:27 2025 -0300
+
+    Ajuste para 50 del número máximo
+
+[33mcommit a245f4f3c8833d0da160432c87112ac68470c583[m
+Author: ljcl79 <ljcl79@gmail.com>
+Date:   Thu Aug 21 21:23:17 2025 -0300
+
+    Ajuste del valor máximo
+
+[33mcommit f9092186c639c3007635a8bfa7cd0448e190ae85[m
+Author: Leonardo Castillo Lacruz <leocastillo.aluralatam@gmail.com>
+Date:   Thu Aug 21 23:45:24 2025 -0300
+
+    Proyecto Inicial
